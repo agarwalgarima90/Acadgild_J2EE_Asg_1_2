@@ -1,0 +1,19 @@
+#heading {
+	text-align: center;
+	color: red;
+	text-decoration: underline;
+}
+
+.labels {
+	font-size : 20px;
+}
+
+table {
+	text-align: left;
+}
+
+th {
+	padding-left: 5px;
+}
+
+
